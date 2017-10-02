@@ -38,7 +38,7 @@
 
 10. Main.
 
-   10.1 Se crea el main, dentro se solicita al usuario ingresar 3 datos y se llama a la funcion insertarLista donde los ordenara y almacenara. 
+   10.1 Se crea el main, dentro se solicita al usuario ingresar 3 datos y se llama a la funcion insertarLista donde los ordenara y          almacenara. 
    
    10.2  Se llama a la funcion mostrarLista donde se imprimira la lista en forma ascendente.
    
